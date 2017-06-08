@@ -1,4 +1,4 @@
-#include <Array.au3>
+
 
 $aArray = IniReadSection("config.ini", "config")                           ;utworzenie tablicy z kluczami
 ;_ArrayDisplay($aArray)
